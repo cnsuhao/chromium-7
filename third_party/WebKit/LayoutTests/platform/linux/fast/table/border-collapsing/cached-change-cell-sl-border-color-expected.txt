@@ -1,0 +1,39 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutTableCell TD id='foo'",
+          "rect": [8, 8, 60, 54],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [90, 30, 11, 19],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "InlineTextBox 'A'",
+          "reason": "full"
+        },
+        {
+          "object": "LayoutTableCell TD",
+          "reason": "full"
+        },
+        {
+          "object": "LayoutTableCell TD id='foo'",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

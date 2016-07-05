@@ -1,0 +1,18 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGRoot svg",
+          "rect": [8, 8, 200, 100],
+          "reason": "style change"
+        }
+      ]
+    }
+  ]
+}
+

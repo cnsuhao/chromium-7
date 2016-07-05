@@ -1,0 +1,18 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutHTMLCanvas (positioned) CANVAS id='canvas'",
+          "rect": [50, 50, 600, 500],
+          "reason": "forced by layout"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,31 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (positioned) DIV id='target'",
+          "rect": [0, 580, 80, 20],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [0, 580, 80, 20],
+          "reason": "style change"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "style change"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,41 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGContainer g id='objectsToRemove'",
+          "rect": [0, 0, 216, 129],
+          "reason": "became invisible"
+        },
+        {
+          "object": "LayoutSVGInlineText #text",
+          "rect": [50, 111, 166, 18],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutSVGText text",
+          "rect": [50, 111, 166, 18],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutSVGRect rect",
+          "rect": [0, 0, 20, 20],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "InlineTextBox ''",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

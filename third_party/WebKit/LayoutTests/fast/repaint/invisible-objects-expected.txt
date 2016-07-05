@@ -1,0 +1,29 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "InlineTextBox ''",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'is invisible'",
+          "reason": "full"
+        },
+        {
+          "object": "LayoutText #text",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,31 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (positioned) DIV",
+          "rect": [88, 53, 15, 100],
+          "reason": "scroll"
+        },
+        {
+          "object": "LayoutBlockFlow (positioned) DIV id='q'",
+          "rect": [3, 103, 10, 50],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow (positioned) DIV",
+          "reason": "scroll"
+        },
+        {
+          "object": "VerticalScrollbar",
+          "reason": "scroll"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGPath path",
+          "rect": [122, 127, 66, 66],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutSVGRect rect id='rect'",
+          "rect": [0, 0, 2, 2],
+          "reason": "style change"
+        }
+      ]
+    }
+  ]
+}
+

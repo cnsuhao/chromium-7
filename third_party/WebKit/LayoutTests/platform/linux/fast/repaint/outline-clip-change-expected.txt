@@ -1,0 +1,31 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (positioned) A id='link' class='updated'",
+          "rect": [43, 103, 91, 30],
+          "reason": "subtree"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [48, 108, 82, 19],
+          "reason": "subtree"
+        },
+        {
+          "object": "InlineTextBox 'Lorem Ipsum'",
+          "reason": "subtree"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

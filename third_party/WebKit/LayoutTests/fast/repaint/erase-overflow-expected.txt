@@ -1,0 +1,27 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV class='square'",
+          "rect": [8, 108, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='target' class='square'",
+          "rect": [8, 8, 100, 100],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutBlockFlow DIV class='square'",
+          "reason": "none"
+        }
+      ]
+    }
+  ]
+}
+

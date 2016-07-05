@@ -1,0 +1,22 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (floating) DIV class='float'",
+          "rect": [8, 62, 100, 100],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='floatContainer'",
+          "reason": "layoutObject removal"
+        }
+      ]
+    }
+  ]
+}
+

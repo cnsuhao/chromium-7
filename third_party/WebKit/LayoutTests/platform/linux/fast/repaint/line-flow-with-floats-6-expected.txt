@@ -1,0 +1,84 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow P",
+          "rect": [8, 320, 418, 79],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutBlockFlow (floating) SPAN id='blueFloat'",
+          "rect": [14, 363, 48, 65],
+          "reason": "forced by layout"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [28, 363, 20, 20],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox 'The players all played at once without waiting\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'difficult game indeed.\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'doubled-up\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'foo'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox 'for'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'other parts of\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'soldiers were always getting up and walking off to'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'the ground, Alice soon came to the conclusion that it'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'was a very\n'",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,110 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV id='firstLine'",
+          "rect": [8, 8, 100, 200],
+          "reason": "forced by layout"
+        },
+        {
+          "object": "LayoutBlockFlow (anonymous)",
+          "rect": [8, 208, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBlockFlow (anonymous)",
+          "rect": [8, 108, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [8, 49, 98, 118],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [8, 49, 8, 18],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "selection"
+        },
+        {
+          "object": "InlineTextBox 'FAIL: Test did'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'not run'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "selection"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutBR BR",
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBR BR",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow (anonymous)",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow BODY",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='firstLine'",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='root'",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow HTML",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutText #text",
+          "reason": "selection"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

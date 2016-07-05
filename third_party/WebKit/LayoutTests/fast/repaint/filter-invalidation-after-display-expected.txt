@@ -1,0 +1,23 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (positioned) DIV id='box' class='green box'",
+          "rect": [300, 8, 329, 329],
+          "reason": "subtree"
+        },
+        {
+          "object": "LayoutBlockFlow (positioned) DIV id='box' class='green box'",
+          "rect": [300, 8, 200, 200],
+          "reason": "subtree"
+        }
+      ]
+    }
+  ]
+}
+

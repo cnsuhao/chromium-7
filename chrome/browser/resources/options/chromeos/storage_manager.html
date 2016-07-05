@@ -1,0 +1,47 @@
+<div id="storageManagerPage" class="page" hidden>
+  <div class="close-button"></div>
+  <h1 i18n-content="storageManagerPage"></h1>
+
+  <div class="content-area">
+    <div class="storage-manager-item">
+      <span i18n-content="storageItemLabelCapacity"></span>
+      <span id="storage-manager-size-capacity"
+            class="storage-manager-item-size"></span>
+    </div>
+    <div class="storage-manager-item">
+      <span i18n-content="storageItemLabelInUse"></span>
+      <span id="storage-manager-size-in-use"
+            class="storage-manager-item-size"></span>
+    </div>
+    <div class="storage-manager-subitem">
+      <a is="action-link"
+         id="storage-manager-label-downloads"
+         i18n-content="storageSubitemLabelDownloads"></a>
+      <span id="storage-manager-size-downloads"
+            class="storage-manager-item-size"
+            i18n-content="storageSizeCalculating"></span>
+    </div>
+    <div id="storage-manager-item-arc"
+         class="storage-manager-subitem" hidden>
+      <a is="action-link"
+         id="storage-manager-label-arc"
+         i18n-content="storageSubitemLabelArc"></a>
+      <span id="storage-manager-size-arc"
+            class="storage-manager-item-size"
+            i18n-content="storageSizeCalculating"></span>
+    </div>
+    <div class="storage-manager-item">
+      <span i18n-content="storageItemLabelAvailable"></span>
+      <span id="storage-manager-size-available"
+            class="storage-manager-item-size"></span>
+    </div>
+  </div>
+
+  <div class="action-area">
+    <div class="button-strip">
+      <button id="storage-confirm" class="default-button"
+          i18n-content="done">
+      </button>
+    </div>
+  </div>
+</div>

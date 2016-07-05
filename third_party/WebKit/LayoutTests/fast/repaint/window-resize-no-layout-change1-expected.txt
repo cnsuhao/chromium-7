@@ -1,0 +1,55 @@
+{
+  "bounds": [2008, 2016],
+  "children": [
+    {
+      "bounds": [2008, 2016],
+      "contentsOpaque": true,
+      "drawsContent": true
+    }
+  ]
+}
+{
+  "bounds": [2008, 2016],
+  "children": [
+    {
+      "bounds": [2008, 2016],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutView #document",
+          "rect": [0, 0, 400, 250],
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+{
+  "bounds": [2008, 2016],
+  "children": [
+    {
+      "bounds": [2008, 2016],
+      "contentsOpaque": true,
+      "drawsContent": true
+    }
+  ]
+}
+{
+  "bounds": [2008, 2016],
+  "children": [
+    {
+      "bounds": [2008, 2016],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutView #document",
+          "rect": [0, 0, 800, 600],
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

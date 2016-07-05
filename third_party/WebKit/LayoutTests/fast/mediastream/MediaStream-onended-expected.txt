@@ -1,0 +1,12 @@
+CONSOLE WARNING: line 53: The MediaStream 'ended' event is deprecated and will be removed in M53, around September 2016. Please use the MediaStream 'inactive' event instead. See https://www.chromestatus.com/features/5730404371791872 for more details.
+Tests MediaStream::onended callback.
+
+On success, you will see a series of "PASS" messages, followed by "TEST COMPLETE".
+
+
+PASS streamEnded was called.
+PASS streamEnded was called.
+PASS successfullyParsed is true
+
+TEST COMPLETE
+

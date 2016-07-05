@@ -1,0 +1,34 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV id='target'",
+          "rect": [8, 8, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "LayoutBlockFlow (positioned) DIV",
+          "reason": "forced by layout"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

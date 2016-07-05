@@ -1,0 +1,33 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGRoot svg",
+          "rect": [174, 30, 126, 90],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutSVGRoot svg",
+          "rect": [50, 30, 126, 90],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutSVGPath path id='path'",
+          "rect": [200, 50, 100, 50],
+          "reason": "full"
+        },
+        {
+          "object": "LayoutSVGPath path id='path'",
+          "rect": [50, 50, 100, 50],
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

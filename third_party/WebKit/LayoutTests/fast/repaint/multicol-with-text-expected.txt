@@ -1,0 +1,55 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutMultiColumnFlowThread (anonymous)",
+          "rect": [8, 8, 630, 20],
+          "reason": "forced by layout"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [488, 8, 80, 20],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

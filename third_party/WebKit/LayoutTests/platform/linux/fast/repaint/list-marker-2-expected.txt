@@ -1,0 +1,54 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutListItem LI",
+          "rect": [30, 100, 762, 104],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutListItem LI",
+          "rect": [48, 155, 744, 50],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutImage IMG id='target'",
+          "rect": [48, 100, 100, 100],
+          "reason": "forced by layout"
+        },
+        {
+          "object": "LayoutListMarker (anonymous)",
+          "rect": [30, 185, 7, 19],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutListMarker (anonymous)",
+          "rect": [30, 135, 7, 19],
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,54 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV id='inner-target'",
+          "rect": [8, 184, 784, 18],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutBlockFlow BODY",
+          "rect": [18, 18, 284, 18],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='inner-target'",
+          "rect": [18, 18, 284, 18],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [18, 18, 23, 17],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [8, 184, 23, 17],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox 'abc'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'abc'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

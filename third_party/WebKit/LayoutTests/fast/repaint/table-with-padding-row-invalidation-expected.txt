@@ -1,0 +1,22 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutTableRow TR",
+          "rect": [0, 0, 260, 50],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutTableCell TD",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

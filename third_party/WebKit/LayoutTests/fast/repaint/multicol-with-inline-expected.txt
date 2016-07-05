@@ -1,0 +1,26 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutText #text",
+          "rect": [488, 8, 80, 20],
+          "reason": "style change"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutInline SPAN id='target'",
+          "reason": "style change"
+        }
+      ]
+    }
+  ]
+}
+

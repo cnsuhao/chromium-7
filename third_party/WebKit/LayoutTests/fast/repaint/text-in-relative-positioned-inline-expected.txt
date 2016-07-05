@@ -1,0 +1,40 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [108, 8, 684, 100],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutInline (relative positioned) SPAN id='target'",
+          "rect": [8, 8, 200, 100],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [8, 8, 200, 100],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "InlineFlowBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'ab'",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

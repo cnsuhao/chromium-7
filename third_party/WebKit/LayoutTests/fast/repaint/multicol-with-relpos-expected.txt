@@ -1,0 +1,18 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (relative positioned) DIV id='target'",
+          "rect": [508, 28, 130, 20],
+          "reason": "style change"
+        }
+      ]
+    }
+  ]
+}
+

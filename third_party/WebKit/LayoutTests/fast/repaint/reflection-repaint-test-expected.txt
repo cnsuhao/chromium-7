@@ -1,0 +1,40 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV id='target'",
+          "rect": [22, 50, 226, 166],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='target'",
+          "rect": [22, 50, 226, 166],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [23, 51, 71, 109],
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox ''",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

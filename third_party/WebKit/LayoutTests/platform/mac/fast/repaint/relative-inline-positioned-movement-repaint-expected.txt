@@ -1,0 +1,40 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow BODY",
+          "rect": [8, 7, 784, 20],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ],
+      "children": [
+        {
+          "position": [68, 7],
+          "bounds": [374, 20],
+          "drawsContent": true,
+          "backfaceVisibility": "hidden",
+          "paintInvalidations": [
+            {
+              "object": "InlineFlowBox",
+              "reason": "full"
+            },
+            {
+              "object": "InlineTextBox 'When this layer moves it shouldn't generate a repaint rect.'",
+              "reason": "full"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

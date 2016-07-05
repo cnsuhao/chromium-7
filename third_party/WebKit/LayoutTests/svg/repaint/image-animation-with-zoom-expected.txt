@@ -1,0 +1,18 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutImage IMG id='targetImage'",
+          "rect": [0, 9, 22, 22],
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

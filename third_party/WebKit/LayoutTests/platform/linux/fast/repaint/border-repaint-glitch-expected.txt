@@ -1,0 +1,43 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [19, 413, 200, 24],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [19, 251, 200, 24],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [19, 417, 200, 20],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [19, 255, 200, 20],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='b'",
+          "rect": [33, 403, 172, 20],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='a'",
+          "rect": [33, 241, 172, 20],
+          "reason": "incremental"
+        }
+      ]
+    }
+  ]
+}
+

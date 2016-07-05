@@ -1,0 +1,68 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGInlineText #text",
+          "rect": [10, 63, 306, 254],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutSVGTSpan tspan id='remove'",
+          "rect": [10, 63, 306, 254],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutSVGText text id='text'",
+          "rect": [10, 63, 306, 254],
+          "reason": "full"
+        },
+        {
+          "object": "InlineFlowBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineFlowBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineFlowBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox ''",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox ''",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'FAIL'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'PASS'",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

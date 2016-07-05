@@ -1,0 +1,75 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (relative positioned) DIV",
+          "rect": [108, 8, 100, 100],
+          "reason": "background obscuration change"
+        },
+        {
+          "object": "LayoutBlockFlow SPAN id='t2' class='blue'",
+          "rect": [108, 8, 100, 100],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [8, 8, 100, 100],
+          "reason": "background obscuration change"
+        },
+        {
+          "object": "LayoutBlockFlow SPAN id='t1'",
+          "rect": [8, 8, 100, 100],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [108, 8, 4, 19],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutText #text",
+          "rect": [8, 8, 4, 19],
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineTextBox '\u00A0'",
+          "reason": "bounds change"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

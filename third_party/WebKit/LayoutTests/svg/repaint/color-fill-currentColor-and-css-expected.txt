@@ -1,0 +1,23 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGEllipse circle",
+          "rect": [8, 8, 80, 80],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutSVGEllipse circle",
+          "rect": [8, 8, 80, 80],
+          "reason": "style change"
+        }
+      ]
+    }
+  ]
+}
+

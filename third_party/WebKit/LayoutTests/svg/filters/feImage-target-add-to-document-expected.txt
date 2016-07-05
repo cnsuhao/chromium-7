@@ -1,0 +1,26 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGRect rect",
+          "rect": [0, 0, 110, 110],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutSVGResourceFilter filter id='filter'",
+          "reason": "full"
+        },
+        {
+          "object": "LayoutSVGResourceFilterPrimitive feImage",
+          "reason": "layoutObject insertion"
+        }
+      ]
+    }
+  ]
+}
+

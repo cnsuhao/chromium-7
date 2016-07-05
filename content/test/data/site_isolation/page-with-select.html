@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<style>
+select {
+  position:absolute;
+  top:9px;
+  left:9px;
+  height:25px;
+  width:80px;
+}
+</style>
+<script>
+
+function openSelectMenu(target) {
+  var evt = document.createEvent("MouseEvents");
+  evt.initMouseEvent("mousedown", true, true, window);
+  document.querySelector('select').dispatchEvent(evt);
+}
+
+</script>
+<html>
+<body>
+<select>
+  <option selected>Apple</option>
+  <option>Orange</option>
+  <option>Banana</option>
+</select>
+</body>
+</html>

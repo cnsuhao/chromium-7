@@ -1,0 +1,37 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "shouldFlattenTransform": false,
+          "children": [
+            {
+              "position": [100, 100],
+              "bounds": [100, 100],
+              "contentsOpaque": true,
+              "drawsContent": true,
+              "backgroundColor": "#0000FF"
+            },
+            {
+              "position": [180, 180],
+              "bounds": [262, 200],
+              "drawsContent": true,
+              "paintInvalidations": [
+                {
+                  "object": "LayoutImage (positioned) IMG id='repaintdiv' class='repaintdiv'",
+                  "rect": [80, 80, 182, 29],
+                  "reason": "style change"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

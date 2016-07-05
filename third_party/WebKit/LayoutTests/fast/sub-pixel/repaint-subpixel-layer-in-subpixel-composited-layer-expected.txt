@@ -1,0 +1,151 @@
+10.5px,12.5px,10.5px:
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [11, 0],
+          "bounds": [100, 50],
+          "drawsContent": true,
+          "paintInvalidations": [
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [12, 0, 12, 12],
+              "reason": "bounds change"
+            },
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [10, 0, 12, 12],
+              "reason": "bounds change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+10.6px,12.4px,10.4px:
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [11, 0],
+          "bounds": [100, 50],
+          "drawsContent": true,
+          "paintInvalidations": [
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [11, 0, 13, 12],
+              "reason": "bounds change"
+            },
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [9, 0, 13, 12],
+              "reason": "bounds change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+10.4px,12.6px,10.6px:
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [10, 0],
+          "bounds": [100, 50],
+          "drawsContent": true,
+          "paintInvalidations": [
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [12, 0, 13, 12],
+              "reason": "bounds change"
+            },
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [10, 0, 13, 12],
+              "reason": "bounds change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+10.6px,12.6px,10.6px:
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [11, 0],
+          "bounds": [100, 50],
+          "drawsContent": true,
+          "paintInvalidations": [
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [12, 0, 13, 12],
+              "reason": "bounds change"
+            },
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [10, 0, 13, 12],
+              "reason": "bounds change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+10.4px,12.4px,10.4px:
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [10, 0],
+          "bounds": [100, 50],
+          "drawsContent": true,
+          "paintInvalidations": [
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [12, 0, 13, 12],
+              "reason": "bounds change"
+            },
+            {
+              "object": "LayoutBlockFlow (positioned) DIV id='test'",
+              "rect": [10, 0, 13, 12],
+              "reason": "bounds change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

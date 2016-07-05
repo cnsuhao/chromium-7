@@ -1,0 +1,86 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGContainer g id='content'",
+          "rect": [16, 42, 784, 170],
+          "reason": "full"
+        },
+        {
+          "object": "LayoutSVGContainer g id='content'",
+          "rect": [16, 42, 784, 170],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutSVGInlineText #text",
+          "rect": [16, 42, 784, 170],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGRoot svg id='svg-root'",
+          "rect": [16, 42, 784, 170],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutSVGText text",
+          "rect": [16, 42, 784, 170],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutSVGText text",
+          "rect": [16, 42, 784, 170],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGInlineText #text",
+          "rect": [334, 42, 466, 170],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutSVGRoot svg id='svg-root'",
+          "rect": [334, 42, 466, 170],
+          "reason": "incremental"
+        },
+        {
+          "object": "LayoutSVGPath path",
+          "rect": [0, 0, 334, 500],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "InlineTextBox 'Clipped. INVISIBLE.'",
+          "reason": "incremental"
+        },
+        {
+          "object": "InlineTextBox 'Clipped. INVISIBLE.'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox 'Clipped. INVISIBLE.'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGResourceClipper clipPath id='dynClip'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

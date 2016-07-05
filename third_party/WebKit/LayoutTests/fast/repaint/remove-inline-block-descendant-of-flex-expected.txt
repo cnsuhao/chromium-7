@@ -1,0 +1,81 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow DIV id='inline-block-2' class='item'",
+          "rect": [0, 200, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBlockFlow DIV",
+          "rect": [0, 100, 100, 100],
+          "reason": "invalidate paint rectangle"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='inline-block-1' class='item'",
+          "rect": [0, 100, 100, 100],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutBlockFlow DIV id='inline-block-2' class='item'",
+          "rect": [0, 100, 100, 100],
+          "reason": "bounds change"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "full"
+        },
+        {
+          "object": "InlineTextBox '\n'",
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBR BR",
+          "reason": "bounds change"
+        },
+        {
+          "object": "LayoutBR BR",
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        },
+        {
+          "object": "RootInlineBox",
+          "reason": "full"
+        }
+      ]
+    }
+  ]
+}
+

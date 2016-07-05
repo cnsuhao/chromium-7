@@ -1,0 +1,90 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow BODY",
+          "reason": "selection"
+        },
+        {
+          "object": "LayoutBlockFlow HTML",
+          "reason": "selection"
+        }
+      ],
+      "children": [
+        {
+          "position": [8, 8],
+          "bounds": [200, 200],
+          "contentsOpaque": true,
+          "shouldFlattenTransform": false,
+          "drawsContent": true,
+          "backgroundColor": "#D3D3D3",
+          "paintInvalidations": [
+            {
+              "object": "InlineTextBox 'test'",
+              "reason": "selection"
+            },
+            {
+              "object": "LayoutBlockFlow DIV id='scroller'",
+              "reason": "selection"
+            }
+          ],
+          "children": [
+            {
+              "bounds": [185, 185],
+              "shouldFlattenTransform": false,
+              "children": [
+                {
+                  "bounds": [200, 1620],
+                  "drawsContent": true,
+                  "paintInvalidations": [
+                    {
+                      "object": "LayoutText #text",
+                      "rect": [0, 610, 21, 19],
+                      "reason": "selection"
+                    },
+                    {
+                      "object": "InlineTextBox 'test'",
+                      "reason": "selection"
+                    },
+                    {
+                      "object": "LayoutBlockFlow DIV id='scroller'",
+                      "reason": "selection"
+                    },
+                    {
+                      "object": "LayoutBlockFlow DIV id='target'",
+                      "reason": "selection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "bounds": [200, 200],
+              "children": [
+                {
+                  "position": [0, 185],
+                  "bounds": [185, 15]
+                },
+                {
+                  "position": [185, 0],
+                  "bounds": [15, 185]
+                },
+                {
+                  "position": [185, 185],
+                  "bounds": [15, 15],
+                  "drawsContent": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

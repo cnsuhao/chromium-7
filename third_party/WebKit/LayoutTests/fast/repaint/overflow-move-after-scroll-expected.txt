@@ -1,0 +1,68 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "children": [
+        {
+          "position": [10, 60],
+          "bounds": [700, 400],
+          "shouldFlattenTransform": false,
+          "drawsContent": true,
+          "children": [
+            {
+              "bounds": [685, 385],
+              "shouldFlattenTransform": false,
+              "children": [
+                {
+                  "bounds": [685, 600],
+                  "drawsContent": true,
+                  "paintInvalidations": [
+                    {
+                      "object": "LayoutBlockFlow (positioned) DIV id='block'",
+                      "rect": [300, 200, 120, 50],
+                      "reason": "bounds change"
+                    },
+                    {
+                      "object": "LayoutBlockFlow (positioned) DIV id='block'",
+                      "rect": [50, 200, 120, 50],
+                      "reason": "bounds change"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "bounds": [700, 400],
+              "children": [
+                {
+                  "position": [0, 385],
+                  "bounds": [685, 15]
+                },
+                {
+                  "position": [685, 0],
+                  "bounds": [15, 385],
+                  "paintInvalidations": [
+                    {
+                      "object": "Vertical Scrollbar Layer",
+                      "rect": [0, 0, 15, 385],
+                      "reason": "full"
+                    }
+                  ]
+                },
+                {
+                  "position": [685, 385],
+                  "bounds": [15, 15],
+                  "drawsContent": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

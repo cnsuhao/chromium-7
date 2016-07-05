@@ -1,0 +1,46 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutSVGRect rect",
+          "rect": [0, 0, 200, 200],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGRect rect",
+          "rect": [0, 0, 200, 200],
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGRect rect",
+          "rect": [0, 0, 200, 200],
+          "reason": "layoutObject removal"
+        },
+        {
+          "object": "LayoutSVGRect rect id='shape'",
+          "rect": [0, 0, 200, 200],
+          "reason": "style change"
+        },
+        {
+          "object": "LayoutSVGRect rect id='shape'",
+          "rect": [0, 0, 200, 200],
+          "reason": "SVG resource change"
+        },
+        {
+          "object": "LayoutSVGResourcePattern pattern id='pat'",
+          "reason": "layoutObject insertion"
+        },
+        {
+          "object": "LayoutSVGResourcePattern pattern id='pat'",
+          "reason": "layoutObject removal"
+        }
+      ]
+    }
+  ]
+}
+

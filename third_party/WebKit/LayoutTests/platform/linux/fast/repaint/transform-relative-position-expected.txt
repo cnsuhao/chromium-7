@@ -1,0 +1,18 @@
+{
+  "bounds": [800, 600],
+  "children": [
+    {
+      "bounds": [800, 600],
+      "contentsOpaque": true,
+      "drawsContent": true,
+      "paintInvalidations": [
+        {
+          "object": "LayoutBlockFlow (relative positioned) DIV id='box' class='rotated'",
+          "rect": [66, 110, 286, 286],
+          "reason": "subtree"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,28 @@
+/* Copyright 2016 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file. */
+
+#storageManagerPage {
+  min-width: 320px;
+}
+
+.storage-manager-item,
+.storage-manager-subitem {
+  -webkit-padding-end: 20px;
+  display: flex;
+  font-size: 108.33%; /* go to 13px from 12px */
+  justify-content: space-between;
+  margin: 12px 0;
+}
+
+.storage-manager-item {
+  -webkit-padding-start: 20px;
+}
+
+.storage-manager-subitem {
+  -webkit-padding-start: 40px;
+}
+
+.storage-manager-item-size {
+  color: rgb(153, 153, 153);
+}
